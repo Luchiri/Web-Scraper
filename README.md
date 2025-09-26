@@ -14,6 +14,12 @@ A **user-friendly Python GUI application** to scrape data from websites. This to
 - Simple, **centered GUI** layout with scrollable Listbox.
 - Supports **error handling** for bad URLs or missing elements.
 
+## Screenshot
+
+> This is what the application looks like when running:
+
+https://raw.githubusercontent.com/Luchiri/Web-Scraper/71c13332bf8b4cd15f97373db5cabd1384ac031a/scrape%20screenshot.png
+
 ## Installation
 
 1. Clone this repository:
@@ -64,6 +70,3 @@ CSS Selector (Text): .quote .text
 CSS Selector (Links): .quote span a
 
 CSS Selector (Images): img
-
-Screenshots
-(Include a screenshot of the GUI here if possible)
